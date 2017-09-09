@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/IMG_0407.JPG
+picture: assets/images/namng.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,10 +16,10 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://namng.me
+url: Nam Nguyen
 # your url: http://USERNAME.github.io
 
-permalink: Nam Nguyen
+permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -57,8 +57,8 @@ authors:
         name: Nam Nguyen
         bio: iOS Software Engineer @ EZ Solution<br/>Core Developer of Maybanhang.net<br/>Living in Ha Noi, Viet Nam
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/namng.jpg
+        twitter: namng
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
