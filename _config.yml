@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: namng174
+# facebook: namng174
 twitter: namng174
 # google: mygoogle
 instagram: namng174
@@ -42,7 +42,7 @@ instagram: namng174
 linkedin: namng174
 # youtube: myyoutube
 # spotify: myspotify
-# github: namng174
+github: namng174
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
