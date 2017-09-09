@@ -19,7 +19,7 @@ resume-url: https://google.com/?q=my+resume
 url: https://namng.me
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+# permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -53,18 +53,12 @@ linkedin: namng174
 # email: namng174@gmail.com
 
 authors:
-    johndoe:
+    namng:
         name: Nam Nguyen
         bio: iOS Software Engineer @ EZ Solution<br/>Core Developer of Maybanhang.net<br/>Living in Ha Noi, Viet Nam
         external-image: false
         picture: assets/images/namng.jpg
-        twitter: namng
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: namng174
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -76,11 +70,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+# projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: false
-blog: false
+# about: false
+# blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -102,7 +96,6 @@ animation: true
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-gist
   - jekyll-feed
   - jemoji
 
