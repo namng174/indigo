@@ -1,6 +1,6 @@
 # main text of home
 name: Nam Nguyen
-bio: iOS Software Engineer @ EZ Solution at Maybanhang.net
+bio: iOS Software Engineer @ EZ Solution\nMaybanhang.net
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,28 +34,28 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: namng174
+twitter: namng174
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: namng174
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+#github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: namng174@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Nam Nguyen
+        bio: iOS Software Engineer @ EZ Solution\nMaybanhang.net
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
