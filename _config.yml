@@ -1,6 +1,6 @@
 # main text of home
 name: Nam Nguyen
-bio: iOS Software Engineer @ EZ Solution<br/>Maybanhang.net
+bio: iOS Software Engineer @ EZ Solution<br/>Core Developer of Maybanhang.net<br/>Living in Ha Noi, Viet Nam
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,14 +12,14 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://namng.me
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: Nam Nguyen
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -42,20 +42,20 @@ twitter: namng174
 linkedin: namng174
 # youtube: myyoutube
 # spotify: myspotify
-#github: mygithub
+# github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: namng174@gmail.com
+# email: namng174@gmail.com
 
 authors:
     johndoe:
         name: Nam Nguyen
-        bio: iOS Software Engineer @ EZ Solution<br/>Maybanhang.net
+        bio: iOS Software Engineer @ EZ Solution<br/>Core Developer of Maybanhang.net<br/>Living in Ha Noi, Viet Nam
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
