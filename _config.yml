@@ -1,6 +1,6 @@
 # main text of home
 name: Nam Nguyen
-bio: iOS Software Engineer @ EZ Solution\nMaybanhang.net
+bio: iOS Software Engineer @ EZ Solution<br/>Maybanhang.net
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ email: namng174@gmail.com
 authors:
     johndoe:
         name: Nam Nguyen
-        bio: iOS Software Engineer @ EZ Solution\nMaybanhang.net
+        bio: iOS Software Engineer @ EZ Solution<br/>Maybanhang.net
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
