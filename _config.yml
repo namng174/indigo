@@ -13,6 +13,8 @@ picture: assets/images/namng.jpg
 url: https://namng.me
 # your url: http://USERNAME.github.io
 
+title: Nam Nguyen
+
 permalink: /:title/
 
 markdown: kramdown
