@@ -1,6 +1,6 @@
 # main text of home
 name: Nam Nguyen
-bio: Software Engineer @ EZ Solution<br/>Lead Developer of EZPOS Holding Pte. Ltd.<br/>Living in Ha Noi, Viet Nam
+bio: Software Engineer @ EZPOS Holding<br/>Lead Developer of EZPOS Holding Pte. Ltd.<br/>Living in Ha Noi, Viet Nam
 title: Nam Nguyen
 
 # twitter summary info
@@ -56,7 +56,7 @@ github: namng174
 authors:
     johndoe:
         name: Nam Nguyen
-        bio: Software Engineer @ EZ Solution<br/>Lead Developer of EZPOS Holding Pte. Ltd.<br/>Living in Ha Noi, Viet Nam
+        bio: Software Engineer @ EZPOS Holding<br/>Lead Developer of EZPOS Holding Pte. Ltd.<br/>Living in Ha Noi, Viet Nam
         external-image: false
         picture: assets/images/profile.jpg
         twitter: namng174
