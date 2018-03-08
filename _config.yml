@@ -17,7 +17,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://namng.met
+url: https://namng.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -56,7 +56,7 @@ github: namng174
 authors:
     johndoe:
         name: Nam Nguyen
-        bio: iOS Software Engineer @ EZ Solution<br/>Core Developer of Maybanhang.net<br/>Living in Ha Noi, Viet Nam
+        bio: Software Engineer @ EZ Solution<br/>Lead Developer of EZPOS Holding Pte. Ltd.<br/>Living in Ha Noi, Viet Nam
         external-image: false
         picture: assets/images/profile.jpg
         twitter: namng174
